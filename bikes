@@ -1,15 +1,20 @@
 {
 	"1": {
+		"name": "Yamha R6",
+		"desciption": "The motorcycle featured Yamaha's completely new engine design capable of producing over 108 hp (81 kW) while stationary. The R6 was the world's first 600cc production four-stroke motorcycle producing over 100 hp (75 kW) in stock form.",
+		"image_url": "https://i.ytimg.com/vi/0o4ITF8GrSY/hq720.jpg"
+	},
+	"2": {
 		"name": "Yamha R15",
 		"desciption": "This R15 V3 engine generates a power of 18.6 PS @ 10000 rpm and a torque of 14.1 Nm @ 8500 rpm. The claimed mileage of R15 V3 is 48.75 kmpl. Yamaha YZF R15 V3 gets Disc brakes in the front and rear. The kerb weight of R15 V3 is 142 Kg.",
 		"image_url": "https://i.ytimg.com/vi/y6bq-Tv1lOw/hq720.jpg"
 	},
-	"2": {
+	"3": {
 		"name": "kawasaki zx10r",
 		"desciption": "Kawasaki Ninja ZX 10R is powered by 998 cc engine. This Ninja ZX 10R engine generates a power of 203 PS @ 13200 rpm and a torque of 114.9 Nm @ 11400 rpm. Kawasaki Ninja ZX 10R gets Disc brakes in the front and rear. The kerb weight of Ninja ZX 10R is 207 Kg. Kawasaki Ninja ZX 10R has Tubeless Tyre and Alloy Wheels.",
 		"image_url": "https://i.ytimg.com/vi/7o7X57vmKhg/hq720.jpg"
 	},
-	"3": {
+	"4": {
 		"name": "Ducati Panigale v4",
 		"desciption": "The Ducati Panigale V4 is a sport bike with a 1,103 cc (67.3 cu in) desmodromic 90° V4 engine introduced by Ducati in 2018 as the successor to the V-twin engined 1299. ... The Panigale V4 uses the new Desmosedici Stradale V4 engine, derived from the Desmosedici MotoGP racing engine.",
 		"image_url": "https://i.ytimg.com/vi/ZfQ3Xer-PfI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1kXJUqRaQIzInMr2KRe8eHoNgjw"
